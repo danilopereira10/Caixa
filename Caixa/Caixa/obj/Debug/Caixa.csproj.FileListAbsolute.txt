@@ -1,0 +1,27 @@
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\bin\Debug\Caixa.exe.config
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\bin\Debug\Caixa.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\bin\Debug\Caixa.pdb
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\obj\Debug\Caixa.Frm_Caixa.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\obj\Debug\Caixa.Properties.Resources.resources
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\obj\Debug\Caixa.csproj.GenerateResource.Cache
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\obj\Debug\Caixa.exe
+c:\users\aluno\documents\visual studio 2013\Projects\Caixa\Caixa\obj\Debug\Caixa.pdb
+C:\Users\aluno\Desktop\Caixa\Caixa\bin\Debug\Caixa.exe.config
+C:\Users\aluno\Desktop\Caixa\Caixa\obj\Debug\Caixa.exe
+C:\Users\aluno\Desktop\Caixa\Caixa\obj\Debug\Caixa.pdb
+C:\Users\cliente\Desktop\Caixa\Caixa\bin\Debug\Caixa.exe.config
+C:\Users\cliente\Desktop\Caixa\Caixa\obj\Debug\Caixa.exe
+C:\Users\cliente\Desktop\Caixa\Caixa\obj\Debug\Caixa.pdb
+C:\Users\cliente\Desktop\Caixa\Caixa\bin\Debug\Caixa.exe
+C:\Users\cliente\Desktop\Caixa\Caixa\bin\Debug\Caixa.pdb
+C:\Users\cliente\Desktop\Caixa\Caixa\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\cliente\Desktop\Caixa\Caixa\obj\Debug\Caixa.Frm_Caixa.resources
+C:\Users\cliente\Desktop\Caixa\Caixa\obj\Debug\Caixa.Properties.Resources.resources
+C:\Users\cliente\Desktop\Caixa\Caixa\obj\Debug\Caixa.csproj.GenerateResource.Cache
+C:\Users\aluno\Desktop\Caixa\Caixa\bin\Debug\Caixa.exe
+C:\Users\aluno\Desktop\Caixa\Caixa\bin\Debug\Caixa.pdb
+C:\Users\aluno\Desktop\Caixa\Caixa\obj\Debug\Caixa.csprojResolveAssemblyReference.cache
+C:\Users\aluno\Desktop\Caixa\Caixa\obj\Debug\Caixa.Frm_Caixa.resources
+C:\Users\aluno\Desktop\Caixa\Caixa\obj\Debug\Caixa.Properties.Resources.resources
+C:\Users\aluno\Desktop\Caixa\Caixa\obj\Debug\Caixa.csproj.GenerateResource.Cache
